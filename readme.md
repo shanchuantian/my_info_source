@@ -18,3 +18,5 @@
 
 
 
+Talk Python To Me ， [官网](https://talkpython.fm/episodes/all) ，[Google 播客](https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzcw?sa=X&ved=0CAMQ4aUDahgKEwiYoIC9n5DzAhUAAAAAHQAAAAAQpQU)  .
+
